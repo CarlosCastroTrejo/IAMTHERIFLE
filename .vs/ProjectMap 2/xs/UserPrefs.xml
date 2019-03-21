@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{53F595B8-94D7-305D-AB10-4FF286BEC8F4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SniperControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ragdoll.cs" Line="25" Column="6" />
+      <File FileName="Assets/Scripts/Teletransport.cs" Line="10" Column="3" />
+      <File FileName="Assets/Keypad/Script/Playsound.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/EnemyManager.cs" Line="74" Column="45" />
+      <File FileName="Assets/Scripts/EnemyIK.cs" Line="19" Column="34" />
+      <File FileName="Assets/Scripts/SniperControl.cs" Line="39" Column="8" />
+      <File FileName="Assets/Scripts/EnemyControl.cs" Line="22" Column="35" />
+      <File FileName="Assets/Scripts/EnemyShooter.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/PlayerShoot.cs" Line="19" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
