@@ -8,8 +8,9 @@ OcclusionCullingSettings:
     smallestOccluder: 5
     smallestHole: 0.25
     backfaceThreshold: 100
-  m_SceneGUID: 00000000000000000000000000000000
-  m_OcclusionCullingData: {fileID: 0}
+  m_SceneGUID: c76584ffae9cea84aa27cbcdf62882ed
+  m_OcclusionCullingData: {fileID: 36300000, guid: 853036de038ec4884984db9872226fa0,
+    type: 2}
 --- !u!104 &2
 RenderSettings:
   m_ObjectHideFlags: 0
@@ -38,7 +39,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657838, g: 0.49641234, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.4511093, g: 0.5009098, b: 0.5740282, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -4288,6 +4289,23 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ece0b6fa7f7de45eb8c959aa3ac7274b, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1 &1024925008 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1628440620691336, guid: c38d50a0fbab640e981e511bc194962b,
+    type: 2}
+  m_PrefabInternal: {fileID: 1766237229}
+--- !u!114 &1024925013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1024925008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  profile: {fileID: 11400000, guid: b77496dac40ec4332b555bfcc13e041d, type: 2}
 --- !u!1001 &1063412891
 Prefab:
   m_ObjectHideFlags: 0
