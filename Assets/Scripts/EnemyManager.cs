@@ -47,7 +47,6 @@ public class EnemyManager : MonoBehaviour
         {
             int x;
             x = Random.Range(0, 101);
-            Debug.Log(x);
             if (x < 50)
             {
                 SpawnNext();
